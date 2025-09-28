@@ -1,7 +1,7 @@
 # Proyecto-DVWA-Pedro
 Proyecto Trabajo fin de Grado  
 
-**## Instalación y documentacion todo en el .pdf llamado proyecto DVWA alojado como un archivo en el repositorio** 
+## Instalación y documentacion todo en el .pdf llamado proyecto DVWA alojado como un archivo en el repositorio
 
 ## Resumen del proyecto
 Las vulnerabilidades en las páginas y aplicaciones web se deben de intentar prevenir y controlar para que la seguridad se vea siempre reforzada, 
