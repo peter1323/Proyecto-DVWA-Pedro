@@ -16,7 +16,7 @@ Para empezar, se instalará una máquina virtual Kali Linux (OVA) que será desc
 
 Cuando tengamos corriendo y en funcionamiento la máquina de Kali Linux, procedemos a instalar Docker  
 (una herramienta que automatiza el despliegue de aplicaciones dentro de los contenedores que se crean)  
-donde, lo que haremos, es desplegar una imagen de la aplicación DVWA que tomaremos de la página oficial Docker Hub  
+lo que haremos, es desplegar una imagen de la aplicación DVWA que tomaremos de la página oficial Docker Hub  
 y que sirve para coger imágenes ya creadas e implantarlas directamente.  
 Para finalizar, probaremos las vulnerabilidades que hay con los distintos ataques y definiremos algunas contramedidas para contrarrestar o suprimir su impacto.  
   
